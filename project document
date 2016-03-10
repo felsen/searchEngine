@@ -1,0 +1,29 @@
+****************install all required packages***************
+go to project directory and then run below command to install list of package.If pip is not installed then download all package from github and install mannually.
+
+pip install -r requirements.txt
+
+
+**********Database migrations******
+go to directory and then run 
+
+python manage.py makemigrations
+python manage.py makemigrate
+
+python manage.py createsuperuser
+
+python manage.py runserver 0.0.0.0:8809
+
+
+
+http://127.0.0.1:8809/
+
+******************************
+custom parameter 
+
+
+http://127.0.0.1:8809/?type=1&min_score=70
+
+
+
+
