@@ -1,0 +1,219 @@
+.surveyTop{
+/*width:100%;*/
+}
+.surveyHeading{
+margin-bottom:2%;
+margin-top:-1%;
+margin-left:3%;
+/*width:100%;*/
+float:left;
+}
+.surveyLogo{
+float: left;
+margin-left: 0.7%;
+width: 19%;
+}
+.logoImage{
+margin-left: 8%
+}
+.SurveySuccessTop{
+width:100%;
+height:77px;
+}
+.successLogo{
+width:20%;
+float:left;
+}
+.successMessage{
+float:left;
+margin-left:2%;
+width:78%;
+padding:17px!important;
+}
+.employeeDetailsLabel{
+width:23%;
+float:left;
+text-align: left !important;
+margin-left:2%;
+}
+.employeeDetailsInput{
+width:70%!important;
+float:left;
+}
+.employeeDetailsRight{
+width:50%!important;
+margin-left:0%!important;
+}
+.employeeDetailsLeft{
+width:50%!important;
+}
+.surveySubHeading{
+/*border-bottom:1px solid;*/
+margin-left: -5px;
+}
+.surveySubHeadingText{
+font-size:16px;
+font-weight:bold;
+}
+.surveyDiv{
+margin-top:2%!important;
+margin-bottom:2%!important
+}
+.wizard > .content {
+overflow:auto;
+}
+.wizard > .content > .body {
+width:100%!important;
+}
+label.error {
+    color: red !important;
+    margin-left:18% ! important;
+    margin-bottom:0px!important;
+}
+.wizard.vertical > .steps {
+width:20%;
+}
+.wizard.vertical > .content {
+margin: 0 0 0.5em 2.5%;
+width: 77%;
+}
+legend{
+text-align:center!important;
+}
+.container{
+margin-top:2%;
+}
+.surveySerialNo{
+width:30px ! important;
+}
+.surveyChoice{
+width:123px ! important;
+}
+.surveySuccess{
+overflow:auto;
+}
+.surveyLoadingSpinner{
+height: 200px;
+margin-left: 45%;
+margin-top: 24%;
+width: 20%
+}
+.agile_terminology_heading{
+text-align:center;
+}
+.agile_terminology_footer{
+text-align:center;
+}
+.agile_terminology_modal_dialog{
+width:100%;
+}
+.agile_terminology_key{
+font-weight:bold;
+font-size:15px;
+ background-color: #dff0d8 !important;
+    border-color: #d6e9c6 !important;
+    border-radius: 7px;
+    color: #3c763d !important;
+    font-weight: bold;
+    padding: 7px;
+width: 11% !important;
+float: left;
+text-align:center;
+}
+.agile_terminology_description{
+margin-left:2%;
+float: left;
+font-weight: bold;
+}
+.agile_terminology_ul{
+list-style-type:none;
+}
+.agile_terminology_modal_button{
+/*float: right;
+margin-right: -8%;
+margin-top: -28%;*/
+
+float: right;
+margin-right: -7%;
+margin-top: -11%;
+
+-ms-transform: rotate(90deg); /* IE 9 */
+    -webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
+    transform: rotate(90deg);
+}
+/*
+.your-clock{
+width:20%important;
+height:5px!important;
+font-weight:normal!important;
+}
+*/
+.flip-clock-label{
+display:none!important;
+}
+.flip-clock-wrapper ul {width: 40px;height: 50px;margin: 0 2px;}
+.flip-clock-wrapper ul li {line-height: 50px;}
+.flip-clock-wrapper ul li a div div.inn {border-radius: 3px;font-size: 50px;}
+.flip-clock-wrapper ul li a div.down {border-bottom-left-radius: 3px; border-bottom-right-radius: 3px;}
+.flip-clock-wrapper ul li a div.up:after {top: 24px;height: 2px;}
+
+.flip-clock-divider {
+    height: 50px!important;
+}
+
+.surveyTitle {
+    float: left;
+    font-size: 30px;
+    /*width: 100%;*/
+    text-align: center;
+}
+.agile_terminology_li{
+clear: both;
+    height: 35px;
+    margin-bottom: 2% !important;
+    margin-top: 0;
+}
+
+.surveyHeading{
+    width:100%!important;
+}
+
+.custm_from_control{
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 16px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+    color: #555;
+    display: block;
+    font-size: 14px;
+    height: 43px;
+    line-height: 1.42857;
+    padding: 6px 12px;
+    text-align: left;
+    transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+    float:left;
+}
+
+.custom_control_label{
+     font-size: 18px;
+    margin-bottom: 0;
+    padding-top: 0.5%;
+    text-align: center;
+    float:left;
+}
+
+.custom_row{
+    margin-bottom:2%;
+}
+
+.custom_submit_button{
+    text-align: center;
+}
+.aueLoadingSpinner{
+    margin-left:3%;
+}
+
+#aueTable{
+    margin-top:2%;
+}
